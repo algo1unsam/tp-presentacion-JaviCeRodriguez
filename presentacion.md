@@ -7,3 +7,5 @@ Hola! Soy Javier Rodriguez, estudiante de Ciencia de Datos y estoy creando mi pr
 - 👨🏽‍💻 Aprender cositas nuevas de desarrollo
 - 🧉 Tomar mates (con edulcorante no)
 - 👨🏽‍🏫 A veces enseño
+
+Comentario (Agus): Team amargo 🧉
