@@ -1,6 +1,6 @@
 # Presentación 🧉
 
-![carpincho](https://diariohoynet.nyc3.cdn.digitaloceanspaces.com/adjuntos/galerias/000/321/0000321626.jpg)
+![carpincho](https://cdn.diariojornada.com.ar/imagenes/2020/7/6/504226_192.jpg)
 
 Hola! Soy Javier Rodriguez, estudiante de Ciencia de Datos y estoy creando mi primer commit (ponele)
 
