@@ -1,10 +1,13 @@
-# presentacion-
+# Presentación 🧉
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+![carpincho](https://cdn.diariojornada.com.ar/imagenes/2020/7/6/504226_192.jpg)
 
-Ya saben usar git!
+Hola! Soy Javier Rodriguez, estudiante de Ciencia de Datos y estoy creando mi primer commit (ponele)
+
+## Hobbies
+
+- 👨🏽‍💻 Aprender cositas nuevas de desarrollo
+- 🧉 Tomar mates (con edulcorante no)
+- 👨🏽‍🏫 A veces enseño
+
+![](dino.png)
